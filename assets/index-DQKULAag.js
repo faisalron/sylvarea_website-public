@@ -52,7 +52,7 @@ Error generating stack: `+i.message+`
 `,expandedHtml:`<h3>I. The Choir of the Canopy</h3>
 <p>The dawn mist of Sylvanis always arrived bearing the fragrance of crushed cedar needles, night-blooming star-ferns, and the rich, mineral tang of rain-soaked humus. For fifteen-year-old Caelen, that scent was as foundational and comforting as the pulse within his own chest.</p>
 <figure class="story-figure float-right">
-  <img src="./images/caelen_protagonist.jpg" alt="Caelen — Wood-weaver Apprentice of Sylvanis" loading="lazy" />
+  <img src="./images/caelen_torso_relic.jpg" alt="Caelen — Wood-weaver Apprentice of Sylvanis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Wood-weaver of Sylvanis</span>
     <span class="figure-title">Caelen (Age 15)</span>
@@ -213,7 +213,7 @@ Error generating stack: `+i.message+`
 <h3>III. The Gaze of the High Shaman</h3>
 <p>At the head of the sanctuary, upon a throne seamlessly grown from the ancient heartwood of the World Tree, sat <strong>High Shaman Sovereign Elenor</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/elenor_face_closeup.jpg" alt="High Shaman Sovereign Elenor of Sylvanis" loading="lazy" />
+  <img src="./images/elenor_torso_relic.jpg" alt="High Shaman Sovereign Elenor of Sylvanis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Sovereign of Sylvanis</span>
     <span class="figure-title">High Shaman Elenor</span>
@@ -321,7 +321,7 @@ Error generating stack: `+i.message+`
 <p>Before Caelen could look up, a dark silhouette dropped gracefully from the high hanging amethyst clusters, slicing through thirty fathoms of empty air before landing silently on the bridge decking between Caelen and the monsters.</p>
 <p>The newcomer was a fifteen-year-old youth dressed in a flowing travel cloak of midnight-purple velvet, edged with silver runes that shimmered with gravitational mana. He had a lean, athletic build, unruly raven hair streaked with strands of pure starlight silver, and striking, luminous violet eyes that burned with keen intelligence.</p>
 <figure class="story-figure float-right">
-  <img src="./images/vesper_companion.jpg" alt="Vesper — Shadow-weaver Apprentice of Umbralis" loading="lazy" />
+  <img src="./images/vesper_torso_relic.jpg" alt="Vesper — Shadow-weaver Apprentice of Umbralis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Shadow-weaver of Umbralis</span>
     <span class="figure-title">Vesper (Age 15)</span>
@@ -401,7 +401,7 @@ Error generating stack: `+i.message+`
 </figure><p>At the center of the vast circular amphitheater rested the sacred monumental sanctum of Umbralis: <strong>The Bedrock Void Geode</strong>. The monumental relic was an astonishing crystalline cavern eight paces in diameter, its interior lined with concentric clusters of raw deep-purple amethyst and black diamond shards that hummed with immense gravitational stillness. Yet, like the World Tree’s seed above, the sacred geode was suffering. Jagged, milky fractures spiderwebbed across its violet facets, and a foul, sluggish mist of necrotic void-sludge was pooling around its base, choking the gravitational balance of the deep earth.</p>
 <p>At the head of the dais, seated upon a throne sculpted from a single block of raw starlight obsidian, was <strong>Void Sovereign Nyx</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/nyx_face_closeup.jpg" alt="Void Sovereign Nyx of Umbralis" loading="lazy" />
+  <img src="./images/nyx_torso_relic.jpg" alt="Void Sovereign Nyx of Umbralis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Sovereign of Umbralis</span>
     <span class="figure-title">Void Sovereign Nyx</span>
@@ -498,7 +498,7 @@ Error generating stack: `+i.message+`
 <p>Caelen and Vesper rushed to the edge of the catwalk and peered down into the smoking conduit.</p>
 <p>Trapped on an iron maintenance grate suspended barely six feet above a churning trench of liquid slag was a fifteen-year-old apprentice pyrosmith. The youth was broad-shouldered and stocky, his muscular arms covered in soot and minor forge-burns. He had an unruly mop of coppery-bronze hair that stuck out beneath a pair of thick brass blacksmith goggles perched on his forehead, and his sun-browned face was streaked with black ash. He wore a heavy apron of dragon-hide leather studded with iron rivets over rolled-up canvas sleeves.</p>
 <figure class="story-figure float-right">
-  <img src="./images/torin_companion.jpg" alt="Torin — Apprentice Pyrosmith of Aethelgard" loading="lazy" />
+  <img src="./images/torin_torso_relic.jpg" alt="Torin — Apprentice Pyrosmith of Aethelgard" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Apprentice Pyrosmith</span>
     <span class="figure-title">Torin (Age 15)</span>
@@ -614,7 +614,7 @@ Error generating stack: `+i.message+`
 <p>The throne room was a temple of fire and industry. Colossal pillars of forged obsidian and glowing red basalt rose eighty meters to support a ceiling carved with scenes of ancient dwarven smiths forging the foundations of the world. Along the walls, hundred-ton trip-hammers rested in silent menace, surrounded by racks of glowing halberds, broadswords, and magma-charged siege plate.</p>
 <p>At the head of the long obsidian dais, standing before a monumental anvil carved from a single meteor of celestial iron, was <strong>High Warlord Ignis</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/ignis_face_closeup.jpg" alt="High Warlord Ignis of Aethelgard" loading="lazy" />
+  <img src="./images/ignis_torso_relic.jpg" alt="High Warlord Ignis of Aethelgard" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Sovereign of Aethelgard</span>
     <span class="figure-title">High Warlord Ignis</span>
@@ -888,7 +888,7 @@ Error generating stack: `+i.message+`
 <p>Perched upon the crumbling pinnacle of a red sandstone spire fifty paces out in the gorge was a fifteen-year-old girl fighting for her life with breathtaking, acrobatic fury.</p>
 <p>She was slender, athletic, and lithe, clad in a sky-blue aviator’s tunic of quilted wind-silk with reinforced dragon-hide flight trousers and knee-high leather boots. Her sun-kissed elven features were framed by chestnut-brown hair interwoven with delicate silver falcon feathers that whipped in the high mountain wind. A pair of polished brass flight goggles rested on her brow, and her bright hazel-blue eyes burned with fierce, fearless defiance.</p>
 <figure class="story-figure float-right">
-  <img src="./images/lyra_companion.jpg" alt="Lyra — Falcon-rider Scout of Aerisia" loading="lazy" />
+  <img src="./images/lyra_torso_relic.jpg" alt="Lyra — Falcon-rider Scout of Aerisia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Falcon-rider Scout</span>
     <span class="figure-title">Lyra (Age 15)</span>
@@ -1010,7 +1010,7 @@ Error generating stack: `+i.message+`
 <p>The skiff was twenty paces long, sculpted from translucent blue glacier-glass with a tall, aerodynamic mast of white cloud-silk that caught the mountain wind with effortless grace. Standing proudly at the helm was a fifteen-year-old girl of striking, otherworldly elegance.</p>
 <p>She had porcelain-pale skin, crystal-blue eyes that shone with the tranquil clarity of deep mountain lakes, and long platinum-silver hair woven into intricate twin braids adorned with tinkling ice crystals. She wore an exquisitely tailored travelling coat of azure velvet trimmed with thick white arctic-fox fur, paired with silver-embroidered boots that glided across the frozen deck.</p>
 <figure class="story-figure float-right">
-  <img src="./images/eira_companion.jpg" alt="Eira — Frost-weaver Flutist of Kryosia" loading="lazy" />
+  <img src="./images/eira_torso_relic.jpg" alt="Eira — Frost-weaver Flutist of Kryosia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Frost-weaver of Kryosia</span>
     <span class="figure-title">Eira (Age 15)</span>
@@ -1090,7 +1090,7 @@ Error generating stack: `+i.message+`
 <p>Passing beneath monumental double-doors sculpted from solid glacier-stone, the companions entered a nave of breathtaking grandeur. Ribbed gothic arches soared sixty meters into the vaulted ceiling, their hollow fluted columns acting as natural organ pipes that hummed in faint, mournful resonance with the arctic gales blowing across the roof. Colossal stained-glass windows made of dyed mineral ice depicted the founding of Sylvarea and the signing of the First Concord, casting jewel-toned patterns across a floor of mirror-polished permafrost.</p>
 <p>At the apex of the frozen dais, seated upon the <strong>Throne of Permafrost</strong>, sat the sovereign of the north: <strong>Frost Archon Ysval</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/ysval_face_closeup.jpg" alt="Frost Archon Ysval of Kryosia" loading="lazy" />
+  <img src="./images/ysval_torso_relic.jpg" alt="Frost Archon Ysval of Kryosia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Sovereign of Kryosia</span>
     <span class="figure-title">Frost Archon Ysval</span>
@@ -1344,7 +1344,7 @@ Error generating stack: `+i.message+`
 <p>The astrolabe was a colossal, interlocking mechanism of concentric brass rings forty meters in diameter, inscribed with millions of glowing astronomical glyphs, logarithmic scales, and atmospheric leyline coordinates. Driven by pressurized pneumatic tubes and celestial wind-mana, the massive brass rings rotated silently in three dimensions, calculating the barometric pressures, thermal currents, and seasonal jet-streams of the entire continent of Sylvarea in real time.</p>
 <p>Standing atop the elevated observation platform at the center of the mercurial pool was the sovereign of the skies: <strong>High Aeromancer Lord Zephyrus</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/zephyrus_face_closeup.jpg" alt="High Aeromancer Lord Zephyrus of Aerisia" loading="lazy" />
+  <img src="./images/zephyrus_torso_relic.jpg" alt="High Aeromancer Lord Zephyrus of Aerisia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Sovereign of Aerisia</span>
     <span class="figure-title">Lord Zephyrus</span>
@@ -1635,7 +1635,7 @@ Error generating stack: `+i.message+`
 <p>&quot;Someone is coming down the bridge!&quot; Lyra called out, notching a wind-arrow to her bow in cautious readiness.</p>
 <p>Descending through the prismatic starlight at a frantic, stumbling run came a lone, youthful figure.</p>
 <figure class="story-figure float-right">
-  <img src="./images/solas_companion.jpg" alt="Solas — Solar Novice Chorister of Lumina" loading="lazy" />
+  <img src="./images/solas_torso_relic.jpg" alt="Solas — Solar Novice Chorister of Lumina" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Solar Novice Chorister</span>
     <span class="figure-title">Solas (Age 15)</span>
@@ -1721,7 +1721,7 @@ Error generating stack: `+i.message+`
 <p>At the far end of the nave, elevated upon a monumental dais of carved sunstone, stood the <strong>Golden Throne of the Sun</strong>.</p>
 <p>Seated upon the throne was the ruler of the heavens: <strong>Solar Sovereign Aurelius</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/aurelius_face_closeup.jpg" alt="Solar Sovereign Aurelius of Lumina" loading="lazy" />
+  <img src="./images/aurelius_torso_relic.jpg" alt="Solar Sovereign Aurelius of Lumina" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Sovereign of Lumina</span>
     <span class="figure-title">Solar Sovereign Aurelius</span>
@@ -2066,7 +2066,7 @@ Error generating stack: `+i.message+`
 `,expandedHtml:`<h3>I. Kidung Paduan Suara Kanopi</h3>
 <p>Kabut fajar Sylvanis selalu tiba membawa semerbak wangi getah jarum cemara, pakis bintang yang mekar malam hari, serta aroma tanah basah nan kaya mineral setelah diguyur hujan lebat. Bagi Caelen yang berusia lima belas tahun, aroma itu sama akrab, menyejukkan, dan mendarah daging laksana denyut nadinya sendiri.</p>
 <figure class="story-figure float-right">
-  <img src="./images/caelen_protagonist.jpg" alt="Caelen — Penenun Kayu Lembah Hijau Sylvanis" loading="lazy" />
+  <img src="./images/caelen_torso_relic.jpg" alt="Caelen — Penenun Kayu Lembah Hijau Sylvanis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penenun Kayu Sylvanis</span>
     <span class="figure-title">Caelen (15 Tahun)</span>
@@ -2226,7 +2226,7 @@ Error generating stack: `+i.message+`
 <h3>III. Tatapan Belas Kasih Sang Syaman Agung</h3>
 <p>Di ujung tertinggi tempat suci, di atas sebuah takhta megah yang bertumbuh menyatu secara alami dari kayu hati Pohon Dunia, bersemayam <strong>Penguasa Tertinggi Elenor</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/elenor_face_closeup.jpg" alt="Penguasa Tertinggi Elenor dari Sylvanis" loading="lazy" />
+  <img src="./images/elenor_torso_relic.jpg" alt="Penguasa Tertinggi Elenor dari Sylvanis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penguasa Sylvanis</span>
     <span class="figure-title">Syaman Agung Elenor</span>
@@ -2334,7 +2334,7 @@ Error generating stack: `+i.message+`
 <p>Sebelum Caelen sempat mendongak, sebuah bayangan gelap meluncur anggun dari rumpun kristal ametis yang tergantung tinggi, membelah tiga puluh depa udara kosong sebelum mendarat tanpa suara di atas lantai jembatan tepat di antara Caelen dan monster-monster itu.</p>
 <p>Sosok itu adalah seorang pemuda berusia lima belas tahun yang mengenakan jubah beludru ungu malam berhiaskan sulaman rune perak berkilau gravitasi. Tubuhnya ramping dan gesit, dengan rambut hitam berantakan berhiaskan helaian perak laksana cahaya bintang, serta sepasang mata ungu berpendar tajam yang memancarkan kecerdasan luar biasa.</p>
 <figure class="story-figure float-right">
-  <img src="./images/vesper_companion.jpg" alt="Vesper — Penenun Bayangan Umbralis" loading="lazy" />
+  <img src="./images/vesper_torso_relic.jpg" alt="Vesper — Penenun Bayangan Umbralis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penenun Bayangan Umbralis</span>
     <span class="figure-title">Vesper (15 Tahun)</span>
@@ -2414,7 +2414,7 @@ Error generating stack: `+i.message+`
 </figure><p>Tepat di tengah amfiteater melingkar yang luas bersemayam suaka monumental paling suci di Umbralis: <strong>Geoda Hampa Batuan Dasar (<em>The Bedrock Void Geode</em>)</strong>. Pusaka monumental tersebut adalah sebuah gua kristal raksasa berdiameter delapan depa, dinding dalamnya dilapisi gugusan kristal ametis ungu tua murni dan pecahan intan hitam yang berdengung memancarkan keheningan gravitasi bumi terdalam. Namun serupa dengan benih Pohon Dunia di atas, geoda suci ini pun sedang menderita hebat. Retakan-retakan keruh bergerigi menjalar di faset ungunya, dan lumpur pekat kabut hampa yang membusuk menggenang di dasar batunya, mencekik keseimbangan gravitasi bumi.</p>
 <p>Di puncak mimbar altar, bertakhta di atas singgasana yang dipahat dari sebongkah batu obsidian bintang utuh, duduklah <strong>Penguasa Hampa Nyx</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/nyx_face_closeup.jpg" alt="Penguasa Hampa Nyx dari Umbralis" loading="lazy" />
+  <img src="./images/nyx_torso_relic.jpg" alt="Penguasa Hampa Nyx dari Umbralis" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penguasa Umbralis</span>
     <span class="figure-title">Penguasa Hampa Nyx</span>
@@ -2509,7 +2509,7 @@ Error generating stack: `+i.message+`
 <p>Caelen dan Vesper berlari ke tepi anjungan besi dan melongok ke bawah ke dalam saluran terak yang berasap tebal.</p>
 <p>Terjebak di atas kisi-kisi pemeliharaan besi yang tergantung hanya dua depa di atas parit lelehan terak cair, tampak seorang pemuda pandai besi magang berusia lima belas tahun. Pemuda itu bertubuh tegap, gempal, dan kekar, lengan berototnya dipenuhi noda jelaga dan luka bakar tempa ringan. Ia memiliki rambut cokelat kemerahan berantakan yang menyembul dari balik kacamata las kuningan tebal di dahinya, dan wajah cokelat terpaan mataharinya berlumur arang hitam. Ia mengenakan celemek kulit naga tebal bertabur paku keling besi di atas baju kanvas dengan lengan tergulung.</p>
 <figure class="story-figure float-right">
-  <img src="./images/torin_companion.jpg" alt="Torin — Pandai Besi Muda Aethelgard" loading="lazy" />
+  <img src="./images/torin_torso_relic.jpg" alt="Torin — Pandai Besi Muda Aethelgard" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Pandai Besi Magang</span>
     <span class="figure-title">Torin (15 Tahun)</span>
@@ -2623,7 +2623,7 @@ Error generating stack: `+i.message+`
 <p>Ruang takhta itu adalah perpaduan katedral api dan bengkel industri raksasa. Pilar-pilar kolosal dari batu obsidian tempa dan basalt merah menyala menjulang setinggi delapan puluh meter menopang langit-langit yang dipahat relief para pandai besi kurcaci Zaman Pertama sedang menempa fondasi benua. Di sepanjang dinding, palu-palu tempa seberat ratusan ton tergantung dalam kesunyian yang mengancam, dikelilingi rak-rak senjata tombak berapi, pedang besar bergerigi, dan lempengan zirah pengepungan tektonik.</p>
 <p>Di puncak mimbar batu obsidian panjang, berdiri tegak di depan sebuah landasan tempa monumental yang dipahat dari sebongkah meteorit besi angkasa utuh, tampaklah <strong>Panglima Perang Tertinggi Ignis</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/ignis_face_closeup.jpg" alt="Panglima Perang Tertinggi Ignis dari Aethelgard" loading="lazy" />
+  <img src="./images/ignis_torso_relic.jpg" alt="Panglima Perang Tertinggi Ignis dari Aethelgard" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penguasa Aethelgard</span>
     <span class="figure-title">Panglima Warlord Ignis</span>
@@ -2892,7 +2892,7 @@ Error generating stack: `+i.message+`
 <p>Bertengger di puncak pilar batu pasir merah yang rapuh dan terkikis angin lima puluh langkah di tengah jurang ngarai, tampak seorang gadis berusia lima belas tahun sedang bertarung mempertahankan nyawanya dengan kelincahan akrobatik yang luar biasa.</p>
 <p>Gadis itu bertubuh ramping, atletis, dan gesit, mengenakan tunik penerbang biru langit dari sutra angin berlapis dengan celana terbang dari kulit naga bertulang serta sepatu bot kulit setinggi lutut. Wajah peri berparas ayu terpaan mataharinya dibingkai oleh rambut cokelat kemerahan yang dikepang rapi berhiaskan bulu-bulu rajawali perak yang berkibar anggun dihembus angin gunung. Sepasang kacamata penerbang kuningan mengkilap tersampir di dahinya, dan sepasang matanya yang berwarna biru hazel menyala dengan tekad baja yang pantang menyerah.</p>
 <figure class="story-figure float-right">
-  <img src="./images/lyra_companion.jpg" alt="Lyra — Pramuka Penunggang Rajawali Aerisia" loading="lazy" />
+  <img src="./images/lyra_torso_relic.jpg" alt="Lyra — Pramuka Penunggang Rajawali Aerisia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Pramuka Angkasa Aerisia</span>
     <span class="figure-title">Lyra (15 Tahun)</span>
@@ -3009,7 +3009,7 @@ Error generating stack: `+i.message+`
 <p>Sekoci es itu sepanjang dua puluh depa, dipahat utuh dari kaca gletser biru tembus pandang dengan tiang layar aerodinamis dari sutra awan putih yang menangkap hembusan angin gunung dengan keanggunan yang sempurna. Berdiri tegak di kemudi haluan adalah seorang gadis berusia lima belas tahun dengan keanggunan ningrat yang memesona.</p>
 <p>Kulitnya sepucat pualam putih, matanya berwarna biru kristal yang memancarkan kejernihan danau pegunungan terdalam, dan rambut perak-platinumnya yang panjang dikepang dua dengan hiasan butiran kristal es yang berdenting halus. Ia mengenakan mantel beludru biru langit yang indah berhiaskan bulu rubah kutub putih tebal, dipadukan dengan sepatu bot bersulam benang perak yang meluncur mulus di atas geladak es.</p>
 <figure class="story-figure float-right">
-  <img src="./images/eira_companion.jpg" alt="Eira — Peniup Seruling Paduan Suara Glasial Kryosia" loading="lazy" />
+  <img src="./images/eira_torso_relic.jpg" alt="Eira — Peniup Seruling Paduan Suara Glasial Kryosia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penenun Es Kryosia</span>
     <span class="figure-title">Eira (15 Tahun)</span>
@@ -3086,7 +3086,7 @@ Error generating stack: `+i.message+`
 <p>Melangkah melewati sepasang pintu gerbang ganda raksasa yang dipahat dari batu gletser padat, para sahabat memasuki bagian tengah katedral yang luar biasa megah. Lengkungan-lengkungan gotik berusuk menjulang setinggi enam puluh meter ke arah langit-langit kubah, kolom-kolom bergalurnya yang berongga berfungsi sebagai pipa-pipa organ alami yang berdengung dalam harmoni murung bersama hembusan angin badai kutub di atas atap. Jendela-jendela kaca patri raksasa yang dibuat dari lelehan es mineral berwarna menggambarkan peristiwa penciptaan benua Sylvarea dan penandatanganan Piagam Pertama, membiaskan pola-pola warna permata ke atas lantai permafrost yang berkilau laksana cermin.</p>
 <p>Di puncak mimbar beku yang bertingkat, duduk di atas <strong>Takhta Permafrost</strong>, bertakhtalah penguasa ranah utara: <strong>Frost Archon Ysval</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/ysval_face_closeup.jpg" alt="Frost Archon Ysval dari Kryosia" loading="lazy" />
+  <img src="./images/ysval_torso_relic.jpg" alt="Frost Archon Ysval dari Kryosia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penguasa Kryosia</span>
     <span class="figure-title">Frost Archon Ysval</span>
@@ -3326,7 +3326,7 @@ Error generating stack: `+i.message+`
 <p>Astrolab itu adalah sebuah mahakarya mekanis konsentris dari cincin-cincin kuningan bertingkat berdiameter empat puluh meter, dipahat dengan jutaan aksara astronomi bercahaya, skala-skala logaritma, dan koordinat leylines atmosferik. Digerakkan oleh tabung-tabung pneumatik bertekanan dan mana angin selestial, cincin-cincin kuningan raksasa itu berputar mulus dalam tiga dimensi, menghitung tekanan barometrik, arus termal, dan pergerakan jet-stream musiman seluruh benua Sylvarea secara seketika.</p>
 <p>Berdiri di atas anjungan pengamatan yang ditinggikan di tengah-tengah kolam air raksa adalah sang penguasa langit: <strong>Penguasa Badai Tertinggi Lord Zephyrus (<em>High Aeromancer Lord Zephyrus</em>)</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/zephyrus_face_closeup.jpg" alt="Penguasa Badai Tertinggi Lord Zephyrus dari Aerisia" loading="lazy" />
+  <img src="./images/zephyrus_torso_relic.jpg" alt="Penguasa Badai Tertinggi Lord Zephyrus dari Aerisia" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penguasa Aerisia</span>
     <span class="figure-title">Lord Zephyrus</span>
@@ -3604,7 +3604,7 @@ Error generating stack: `+i.message+`
 <p>&quot;Ada seseorang yang berlari menuruni jembatan!&quot; seru Lyra seraya memasang anak panah angin pada busurnya dalam sikap waspada.</p>
 <p>Berlari terhuyung-huyung menuruni jalan raya cahaya prisma dalam langkah-langkah panik dan putus asa, tampaklah sesosok tubuh ramping seorang remaja.</p>
 <figure class="story-figure float-right">
-  <img src="./images/solas_companion.jpg" alt="Solas — Murid Paduan Suara Surya Lumina" loading="lazy" />
+  <img src="./images/solas_torso_relic.jpg" alt="Solas — Murid Paduan Suara Surya Lumina" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penenun Cahaya Surya</span>
     <span class="figure-title">Solas (15 Tahun)</span>
@@ -3684,7 +3684,7 @@ Error generating stack: `+i.message+`
 <p>Di ujung terjauh lorong katedral, bertakhta di atas mimbar monumental dari pahatan batu surya, berdirilah <strong>Takhta Emas Sang Surya</strong>.</p>
 <p>Duduk di atas takhta agung itu adalah sang penguasa langit tertinggi: <strong>Penguasa Surya Agung Aurelius (<em>Solar Sovereign Aurelius</em>)</strong>.</p>
 <figure class="story-figure float-right">
-  <img src="./images/aurelius_face_closeup.jpg" alt="Penguasa Surya Agung Aurelius dari Lumina" loading="lazy" />
+  <img src="./images/aurelius_torso_relic.jpg" alt="Penguasa Surya Agung Aurelius dari Lumina" loading="lazy" />
   <figcaption>
     <span class="figure-tag">Penguasa Lumina</span>
     <span class="figure-title">Sovereign Aurelius</span>
